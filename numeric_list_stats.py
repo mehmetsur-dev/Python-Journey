@@ -1,4 +1,4 @@
-#day8 challenge2
+# numeric_list_stats
 
 
 dna_samples = [120, 500, 240, 750, 120, 330]
