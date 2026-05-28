@@ -1,4 +1,8 @@
-
+# =============================================================================
+# OOP TUTORIAL 4 - INHERITANCE: CREATING SUBCLASSES
+# Challenge 3: Person / Student / Teacher
+# Day 25 | Topics: multi-level inheritance, None→[] pattern, looping objects
+# =============================================================================
 
 
 class Person:
