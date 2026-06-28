@@ -1,4 +1,6 @@
-
+# Day 53 - OOP + SQL Combined Review
+# Student Registry Challenge
+# Topics: classes, @property, @classmethod, __str__, class variables
 
 
 class Student:
