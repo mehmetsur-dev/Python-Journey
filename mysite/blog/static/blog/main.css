@@ -1,0 +1,21 @@
+body {
+    background: #fafafa;    /* light gray page background instead of stark white */
+    color: #333333;         /* dark gray text instead of pure black — easier on eyes */
+    margin-top: 5rem;       /* pushes content down so it's not hidden under the fixed-top navbar */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444444;         /* slightly different shade for headings vs body text */
+}
+
+ul {
+    margin: 0;               /* removes default browser spacing around lists */
+}
+
+.bg-steel {
+    background-color: #5f788a;   /* the actual navbar color — a steel-blue */
+}
+
+.site-header .navbar-nav .nav-link {
+    color: #cbd5db;    /* light blue-gray for nav links specifically, overriding default white */
+}
