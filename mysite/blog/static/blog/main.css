@@ -19,3 +19,20 @@ ul {
 .site-header .navbar-nav .nav-link {
     color: #cbd5db;    /* light blue-gray for nav links specifically, overriding default white */
 }
+
+
+.account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+}
+
+.account-heading {
+    font-size: 2.5rem;
+}
+
+.media {
+    display: flex;
+    align-items: flex-start;
+}
